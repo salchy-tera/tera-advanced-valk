@@ -1,0 +1,19 @@
+{
+    "author": "<font color='#00FFFF'>Salchy</font>",
+    "description": "Salchy Advanced Valk",
+    "disableAutoUpdate": true,
+    "disabled": false,
+    "donationUrl": "",
+    "name": "svalk",
+    "options": {
+        "niceName": "<font color='#FDD017'>Salchy Advanced Valk</font>",
+        "guiName": "<font color='#FDD017'>Salchy Advanced Valk</font>",
+        "reloadable": true,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1		
+	},
+    "servers": [""],
+    "supportUrl": "",
+    "version": "<font color='#00FFFF'>1.0.0</font>"
+}
